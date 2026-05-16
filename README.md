@@ -4,7 +4,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=codersadanand&theme=dark" width="48%" alt="Codeforces Stats" />
   </a>
   <a href="https://leetcode.com/sorcerer171">
-    <img src="https://leetcard.jacoblin.cool/sorcerer171?theme=dark" width="48%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/sorcerer171?theme=dark&ext=contest" width="48%" alt="LeetCode Stats" />
   </a>
 </p>
 <div align="center">
