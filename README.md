@@ -1,7 +1,7 @@
 # Sadanand-Jha
 <p align="center">
-  <a href="https://codeforces.com/profile/Redpanda_x">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Redpanda_x&theme=dark" width="48%" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/redpanda_x">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=redpanda_x&theme=dark" width="48%" alt="Codeforces Stats" />
   </a>
   <a href="https://leetcode.com/sorcerer171">
     <img src="https://leetcard.jacoblin.cool/sorcerer171?theme=dark&ext=contest" width="48%" alt="LeetCode Stats" />
