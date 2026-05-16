@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 
 # Fetch data from Codeforces API
-response = requests.get("https://codeforces.com/api/user.status?handle=CoderSadanand").json()
+response = requests.get("https://codeforces.com/api/user.status?handle=codersadanand").json()
 
 if response['status'] == 'OK':
     solved_problems = set()
