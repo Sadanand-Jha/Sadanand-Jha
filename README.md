@@ -9,6 +9,6 @@
 </p>
 <div align="center">
   <a href="https://cses.fi/user/Work_out_">
-    <img src="https://img.shields.io/badge/CSES-90%2B_Problems_Solved-black?style=for-the-badge&logo=c&logoColor=white" alt="CSES Stats" />
+    <img src="https://img.shields.io/badge/CSES-100%2B_Problems_Solved-black?style=for-the-badge&logo=c&logoColor=white" alt="CSES Stats" />
   </a>
 </div>
