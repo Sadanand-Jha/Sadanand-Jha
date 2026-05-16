@@ -12,3 +12,6 @@
     <img src="https://img.shields.io/badge/CSES-100%2B_Problems_Solved-black?style=for-the-badge&logo=c&logoColor=white" alt="CSES Stats" />
   </a>
 </div>
+<p align="center">
+  <img src="cf_graph.svg" width="98%" alt="Problem Rating Distribution" />
+</p>
